@@ -80,7 +80,7 @@ To doubt they were kneeling then.
 
 "_**XHTML** was developed to make HTML more extensible and flexible to work with other data formats (such as XML). In addition, browsers ignore errors in HTML pages, and try to display the website even if it has some errors in the markup. So XHTML comes with a much stricter error handling."_
 ## exercise 3
-![goat](https://www.youtube.com/watch?v=sphHO8-dGnk)
+[goat](https://www.youtube.com/watch?v=sphHO8-dGnk)
 
 ![dogi](123.jpg)
 
